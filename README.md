@@ -36,4 +36,4 @@ The possum dataset is publicly available from the R `DAAG` package and from Kagg
 
 ---
 
-*Nouviboth Ra · [LinkedIn](https://www.linkedin.com/in/nouviboth-ra-792439362)*
+*Nouviboth Ra · [LinkedIn](https://www.linkedin.com/in/nbothra)*
